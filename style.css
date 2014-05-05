@@ -2,7 +2,7 @@
 
 
 #container{
-	width: 900px;
+	max-width: 900px;
 	background-color: #F5EED2;
 	margin: 0 auto;
 }
@@ -15,16 +15,16 @@ header{
 
 #menu{
 	float:left;
-	width:220px;
-	padding: 20px;
-	margin: 20px;
+	width:24.44%;
+	padding: 2.22%;
+	margin: 2.22%;
 	background-color: #8EBBB4;
 }
 
 #main-bar{
 	float:right;
-	width:560px;
-	padding:20px;
+	width:62.22%;
+	padding:2.22%;
 }
 
 .story-image{
